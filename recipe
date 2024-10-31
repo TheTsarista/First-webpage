@@ -1,0 +1,27 @@
+<h1>Tomato Soup and Grilled Cheese</h1>
+    <p>Tomato soup and Grilled Cheese is my all time favorite food. It's super easy to make and very filling. Its a great comfort food if you are sick, a rainy day, or sad.</p>
+    <h2>Ingredients</h2>
+<ul>
+    <li>Tomato</li>
+    <li>Garlic</li>
+    <li>onion</li>
+    <li>Peppers</li>
+    <li>olive oil</li>
+    <li>Seasonings</li>
+    <li>Chicken broth</li>
+    <li>Heavy Cream</li>
+    <li>Cheese</li>
+</ul>
+<h2>Instructions</h2>
+<ol>
+<li>Roast all your vegetables top, with olive oil and seasonings</li>
+<li>Blend with chicken broth till smooth</li>
+<li>Top with the cheese and heavy cream</li>
+<li> Severd well with Grilled Cheese</li>
+</ol>
+<style>
+    Body{
+        background-color: rgb(164, 237, 164);
+        color:rgb(10, 93, 71)
+    }
+</style>
